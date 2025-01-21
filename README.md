@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in HTML related to the initial visibility of a div element.  The bug occurs because the initial CSS style of the div element may not be properly applied, leading to unexpected behavior. The solution showcases a correct way to manage the initial visibility.
